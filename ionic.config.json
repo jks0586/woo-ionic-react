@@ -1,0 +1,7 @@
+{
+  "name": "Woo_ionic_react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
